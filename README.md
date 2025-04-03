@@ -16,6 +16,12 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 
+### Run the Mock Backend
+
+```sh
+json-server --watch data/db.json
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
