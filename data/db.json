@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": "6630200721",
+      "name": "นายวงศพัทธ์ ปิยัง",
+      "major": "วิทยาการคอมพิวเตอร์",
+      "school": "โรงเรียนพนัสพิทยาคาร",
+      "image1": "/src/assets/images/my-photo-1.jpg",
+      "image2": "/src/assets/images/my-photo-2.jpg"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "studentId": "6630200721",
+      "courseCode": "01418112",
+      "courseName": "Fundamental Programming Concepts",
+      "credits": 3,
+      "grade": "B+"
+    },
+    {
+      "id": "2",
+      "studentId": "6630200721",
+      "courseCode": "01418211",
+      "courseName": "Software Construction",
+      "credits": 3,
+      "grade": "B"
+    },
+    {
+      "id": "3",
+      "studentId": "6630200721",
+      "courseCode": "01418361",
+      "courseName": "Introduction to Computer Vision",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": "4",
+      "studentId": "6630200721",
+      "courseCode": "01355102",
+      "courseName": "English for University Life",
+      "credits": 3,
+      "grade": "B+"
+    },
+    {
+      "id": "5",
+      "studentId": "6630200721",
+      "courseCode": "01418131",
+      "courseName": "Statistical Programming",
+      "credits": 3,
+      "grade": "A"
+    }
+  ]
+}
